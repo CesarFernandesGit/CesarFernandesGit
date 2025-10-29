@@ -1,7 +1,7 @@
 name: Generate pacman animation
 
 on:
-  schedule: # executa a cada 12h
+  schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
@@ -28,10 +28,11 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      - name: Push to output branch
+      - name: Deploy SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist  # ← o SVG já é criado dentro dessa pasta!
+          build_dir: dist
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
