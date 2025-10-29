@@ -33,13 +33,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
 </div>
-
-###
-
-<h2 align="left">🎮 Contribuições em forma de Pac-Man:</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CesarFernandesGit/CesarFernandesGit/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CesarFernandesGit/CesarFernandesGit/output/pacman-contribution-graph.svg">
-  <img alt="Pacman animation" src="https://raw.githubusercontent.com/CesarFernandesGit/CesarFernandesGit/output/pacman-contribution-graph.svg">
-</picture>
