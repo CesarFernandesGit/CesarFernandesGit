@@ -6,7 +6,11 @@
 
 ###
 
-<p align="left">✨ Curso Faculdade de Análise e Desenvolvimento de Sistemas<br>📚 Atualmente estou estudando  API's e Frameworks<br>🎯 Minha meta é ingressar no mercado como Desenvolvedor Back-End</p>
+<p align="left">
+  ✨ Curso Faculdade de Análise e Desenvolvimento de Sistemas<br>
+  📚 Atualmente estou estudando API's e Frameworks<br>
+  🎯 Minha meta é ingressar no mercado como Desenvolvedor Back-End
+</p>
 
 ###
 
@@ -32,10 +36,10 @@
 
 ###
 
+<h2 align="left">🎮 Contribuições em forma de Pac-Man:</h2>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CesarFernandesGit/CesarFernandesGit/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CesarFernandesGit/CesarFernandesGit/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CesarFernandesGit/CesarFernandesGit/output/pacman-contribution-graph.svg">
+  <img alt="Pacman animation" src="https://raw.githubusercontent.com/CesarFernandesGit/CesarFernandesGit/output/pacman-contribution-graph.svg">
 </picture>
-
-###
