@@ -2,16 +2,14 @@
 
 ###
 
-<h4 align="left">🐧 Linux | 📊 Monitoramento | ⚙️ Automação com Python</h4>
-
-###
-
 <p align="left">
-✨ Graduando em Análise e Desenvolvimento de Sistemas
-🐧 Foco em Linux, monitoramento de ambientes, automação com Python e Shell Script
-📊 Experiência com Zabbix, análise de logs, bancos de dados (MySQL/PostgreSQL) e troubleshooting
-🎯 Em evolução para atuar com Infraestrutura, Operações e DevOps
+✨ Graduando em Análise e Desenvolvimento de Sistemas <br>
+<br>
+🐧 Linux | Monitoramento | Automação <br>
+📊 Zabbix | Análise de Logs | MySQL | PostgreSQL <br>
+🎯 Foco em Infraestrutura, Operações e DevOps
 </p>
+
 
 ###
 
