@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-✨ Graduando em Análise e Desenvolvimento de Sistemas <br>
+✨ Graduado em Análise e Desenvolvimento de Sistemas <br>
 <br>
 🐧 Linux | Monitoramento | Automação <br>
 📊 Zabbix | Análise de Logs | MySQL | PostgreSQL <br>
