@@ -2,14 +2,15 @@
 
 ###
 
-<h4 align="left">Sou um Desenvolvedor Back-End Python 🐍</h4>
+<h4 align="left">🐧 Linux | 📊 Monitoramento | ⚙️ Automação com Python</h4>
 
 ###
 
 <p align="left">
-  ✨ Curso Faculdade de Análise e Desenvolvimento de Sistemas<br>
-  📚 Atualmente estou estudando API's e Frameworks<br>
-  🎯 Minha meta é ingressar no mercado como Desenvolvedor Back-End
+✨ Graduando em Análise e Desenvolvimento de Sistemas
+🐧 Foco em Linux, monitoramento de ambientes, automação com Python e Shell Script
+📊 Experiência com Zabbix, análise de logs, bancos de dados (MySQL/PostgreSQL) e troubleshooting
+🎯 Em evolução para atuar com Infraestrutura, Operações e DevOps
 </p>
 
 ###
